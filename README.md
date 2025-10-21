@@ -20,7 +20,7 @@ Driven by continuous learning and a commitment to community empowerment, Renato 
 
 ### Major milestones:
 
-- 📚 Published Books on Amazon (2025)
+📚 Published Books on Amazon (2025)
   
 A Arquitetura da Inteligência: Estratégias para a Era da IA — A comprehensive guide on AI integration strategies and modern Laravel architecture, exploring intelligent systems and scalable designs.
 AI-Powered Development with Copilot — An in-depth exploration of AI-driven development workflows, demonstrating how to integrate GitHub Copilot and other AI tools into engineering practices to maximize productivity, code quality, and innovation.

@@ -8,8 +8,8 @@
 Renato Marinho is the Founder of GitScrum, tech entrepreneur, author, and open-source advocate with over two decades leading innovation in the technology industry. Born in Brazil, Renato built a consistent career developing high-availability web systems, tackling complex challenges in architecture, security, and scalability while leading teams across multiple countries. His pragmatic approach prioritizes solutions that truly work for organizations, forged through hands-on startup experience and collaborating with global corporations.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=renatomarinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Renato Marinho's GitHub stats" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=renatomarinho&theme=dracula" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=renatomarinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Renato Marinho's GitHub stats" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=renatomarinho&theme=dracula" alt="GitHub Streak" height="160"/>
 </p>
 
 Driven by continuous learning and a commitment to community empowerment, Renato blends deep engineering expertise with strategic vision to solve challenges and accelerate digital transformation. As the founder of GitScrum, he inspires developers through technical articles, mentoring startups, and contributing to the open-source ecosystem. His writing distills actionable insights from advanced technologies—such as AI agents and scalable architectures—helping teams optimize performance, accelerate delivery, and turn innovation into measurable impact.

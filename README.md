@@ -16,7 +16,7 @@ Driven by continuous learning and a commitment to community empowerment, Renato 
 
 ---
 
-## 🏆 Notable Achievements
+## ⚡ Highlights 
 
 ### Major milestones:
 

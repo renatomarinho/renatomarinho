@@ -18,8 +18,6 @@ Driven by continuous learning and a commitment to community empowerment, Renato 
 
 ## ⚡ Highlights 
 
-### Major milestones:
-
 📚 Published Books on Amazon (2025)
   
 A Arquitetura da Inteligência: Estratégias para a Era da IA — A comprehensive guide on AI integration strategies and modern Laravel architecture, exploring intelligent systems and scalable designs.
